@@ -2051,17 +2051,17 @@
     debug "^3.1.0"
     lodash.once "^4.1.1"
 
-"@date-io/core@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@date-io/core/-/core-2.6.0.tgz#01efa47b225d1a94d3138583588b919442149ee8"
-  integrity sha512-GkM3jTlh9r3MfZEuFKV4g1JSbxz1G0Or1CBKkhPcw7UCJRjjsk5mLVYZYtUQEsOY8rCSFUTdCOm63ulWzAC/pw==
+"@date-io/core@^2.10.7", "@date-io/core@^2.6.0":
+  version "2.10.7"
+  resolved "https://registry.yarnpkg.com/@date-io/core/-/core-2.10.7.tgz#0fe1fa0ef02c827919e23c2802a4b25589ac522d"
+  integrity sha512-EG/1qDiQvd12RoNJ6H+sZcHVswC/3uMx/ySvfaJ24vB30rLjkgHggEXbgMbfgki7wMuiQ/zXI8QlmF1k3kWRGQ==
 
-"@date-io/date-fns@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@date-io/date-fns/-/date-fns-2.6.0.tgz#c877afa904c5e0f1cd5cfaa7a930a9358914958a"
-  integrity sha512-ZedVQwbbjqTZj+kTimCfuEto0QLliqE1uCMuzb1Xi/yRfar4nMjc5orl/PJC2pkXXJC8jyL6ZCGXI9FQSgeAjQ==
+"@date-io/date-fns@^2.10.8":
+  version "2.10.8"
+  resolved "https://registry.yarnpkg.com/@date-io/date-fns/-/date-fns-2.10.8.tgz#08ab5ed26c6c88095474f9ddd948d65d8a023eb4"
+  integrity sha512-T5RXKOt8CnjsKg0Orgbe/ekoafC02nsopS+wve5+6gF11hPfN2QUqXclxYQv1LIZSaAHJJ2gL8y0msOew74QHQ==
   dependencies:
-    "@date-io/core" "^2.6.0"
+    "@date-io/core" "^2.10.7"
 
 "@date-io/dayjs@^2.6.0":
   version "2.6.0"
